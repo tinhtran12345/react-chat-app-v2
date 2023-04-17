@@ -4,9 +4,9 @@
 
 -   Backend: nodeJs, framework/library: express, mongooose,...
 -   Database: https://www.mongodb.com/
--   Front-end:
+-   Front-end: react+vite, react-bootstrap
 
-## Feature
+## NoContent
 
 -   Using socket.io to create real-time message and notification system.
 
@@ -17,3 +17,5 @@
 -   Auth in react, node and JWT
 
 -   Create and consuming APIS
+
+## Link youtube: https://www.youtube.com/watch?v=V0nYtnJ6y04&list=LL&index=3
